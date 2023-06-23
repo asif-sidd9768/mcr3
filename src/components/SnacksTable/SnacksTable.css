@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px
+}
+
+.snack-search-input {
+  padding: 6px;
+  width: 30%;
+  margin: 0.5rem 0;
+}
+
+th {
+  cursor: pointer;
+}
+
+.empty-text {
+  padding: 1rem;
+}
